@@ -1,0 +1,8 @@
+POST http://localhost:3000/api/animals
+Content-Type: application/vnd.api+json
+
+{
+    "name": "Barsik",
+    "count_legs": 4,
+    "birthday": "01-01-2021"
+}
